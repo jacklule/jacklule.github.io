@@ -6,6 +6,8 @@ I set up this repo as a possible site for students to submit Data Viz assignment
 I am still researching other alternatives.
 But ultimately I would like students to become more familiar with GitHub by submitting and getting work.
 
+UPDATE: It seems like the best option might be: 1) students set up a repository like this page: name.github.io; 2) upload html pages from the local GitHub for Mac; 3) Copy "file path" for each page and paste links into a "home page," the Index page for name.github.io.
+
 The Chronicle of Higher Education offers some good guides, geared for academics.
 
 [Getting Started with GitHub](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
