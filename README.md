@@ -12,7 +12,9 @@ For example: Here are the links to the two html test documents I have uploaded t
 
 [You Tube Embed Test](jacklule.github.io/YouTubeEmbedTest.html)
 
+
 [Index](jacklule.github.io/index.html)
+
 
 The Chronicle of Higher Education offers some good guides, geared for academics.
 
