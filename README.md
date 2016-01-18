@@ -6,6 +6,8 @@ I set up this repo as a possible site for students to submit Data Viz assignment
 I am still researching other alternatives, which could be on or off GitHub.
 But ultimately I would like students to become more familiar with GitHub by submitting and getting work.
 
+<p><a href="https://pages.github.com/">Followed this GitHub Pages guide.</a></p>
+
 UPDATE: It seems like the best option might be: 1) students set up a repository like this site: name.github.io; 2) Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
 
 For example: Here are the links to the two html test documents I have uploaded to this repo:
