@@ -2,14 +2,16 @@
 
 ##Repo for Data Viz project pages
 
-I set up this repo as part of a new journalism module, Data Visualization.
-My hope is that each student will setu up a repo as means to submit and publish Data Viz assignments.
-I am still researching other alternatives, which could be on or off GitHub.
-But ultimately I would like students to become more familiar with GitHub and its process of submitting and publishing work.
+I set up this repo as part of a new journalism module, Data Visualization. My hope is that each student will setu up a repo as means to submit and publish Data Viz assignments.
 
-<p><a href="https://pages.github.com/"> I followed this GitHub Pages guide, using "GitHub for Mac."</a></p>
+I am still researching other alternatives, which could be on or off GitHub. But ultimately I would like students to become more familiar with GitHub and its process of submitting and publishing work.
 
-UPDATE: It seems like the best option might be: 1) students set up a repository like this site: name.github.io; 2) Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
+<p><a href="https://pages.github.com/"> I followed this GitHub Pages guide, using "User or organization" site and "GitHub for Mac."</a></p>
+
+UPDATE: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to publish each assignment thus doubling the value of each lesson. To get them set up:
+
+- Students first set up their repo site at github.io, retracing my steps at [Git Hub Pages guide above](https://pages.github.com/)
+- Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
 
 For example: Here are the links to the two html test documents I have uploaded to this repo:
 
