@@ -13,13 +13,10 @@ UPDATE: After a month of trial, I think github.io will work for students. The st
 - Students first set up their repo site at github.io, retracing my steps at [Git Hub Pages guide above](https://pages.github.com/)
 - Students would finish an assignment, such as constructing a chart on Chartbuilder or an interactive vusualization on Tableau, get the embed code and tudents would Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
 
-For example: Here are the links to the two html test documents I have uploaded to this repo:
+For example: Here are links to two html test documents I have uploaded to this repo:
 
-[You Tube Embed Test](http://jacklule.github.io/YouTubeEmbedTest.html)
-
-
-[Index](http://jacklule.github.io/index.html)
-
+- [You Tube Embed Test](http://jacklule.github.io/YouTubeEmbedTest.html)
+- [Index](http://jacklule.github.io/index.html)
 
 The Chronicle of Higher Education offers some good guides, geared for academics.
 
