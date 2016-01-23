@@ -15,7 +15,7 @@ UPDATE: After a month of trial, I think github.io will work for students. The st
 - **To publish work saved on the local computer**, such as svg files produced by Chartbuilder: 1) Students would complete the assignment at Chartbuilder; 2) download the svg file to their local computer (the other option, png files, do not render consistently); 3) create an html page for the assignment; 4) insert the svg file into the html page; 5) upload the html page to their github.io site. Here is an exammple of a Chartbuilder assignment: [Chartbuilder svg test](http://jacklule.github.io/SVGtest.html)
 - **To embed and publish work hosted on sites**, such as Tableau or YouTube: 1) Students would complete the assignment on Tableau; 2) get the embed code at Tableau; 3) create an html page for the assignment; 4) embed the Tableau work into the html page; 5) upload the html page to their github.io site. Here are examples: [You Tube Embed Test](http://jacklule.github.io/YouTubeEmbedTest.html) and [Tableau Embed Test](http://jacklule.github.io/embed-test-Tableau.html)
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into a "Portfolio" page created for name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
-- The Portfolio page would be a collection of their Data Viz work that can be shared with future employers.
+- **The Portfolio** page would be a collection of their Data Viz work that can be shared with future employers.
 
 **File and Folder management** is important.
 
