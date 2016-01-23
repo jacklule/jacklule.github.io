@@ -12,12 +12,12 @@ UPDATE: After a month of trial, I think github.io will work for students. The st
 
 - Students first set up their repo site at github.io, retracing my steps at [Git Hub Pages guide above](https://pages.github.com/)
 - To publish work saved on the local computer, such as svg files produced by Chartbuilder :
-- To embed and publish work hosted on sites, such as YouTube or Tableau:
-- To "hand in" the assignment, students would: 1) Copy the file path --"copy path" -- for each the page and paste that link into a "Assignments" page, such as this README.MD page, for name.github.io; 2) They may need to add http:// in front of the file path name on their for correct address; 3) Students would then contact me with the url for their Assignment page.
+- To embed and publish work hosted on sites, such as Tableau or YouTube: 1) Students would complete the assignment on Tableau; 2) get the embed code at Tableau; 3) create an html page for the assignment; 4) embed the Tableau work into the html page; 5) upload the html page to their github.io site. Here are examples: [You Tube Embed Test](http://jacklule.github.io/YouTubeEmbedTest.html) and 
+- To "hand in" the assignment, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into a "Work" page, such as this README.MD page, for name.github.io; 2) They may need to add http:// in front of the assigment file path name on their Work page for the url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Work page.
 
 For example: Here are links to two html test documents I have uploaded to this repo:
 
-- [You Tube Embed Test](http://jacklule.github.io/YouTubeEmbedTest.html)
+- 
 - [Index](http://jacklule.github.io/index.html)
 
 The Chronicle of Higher Education offers some good guides, geared for academics.
