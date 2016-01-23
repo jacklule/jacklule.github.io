@@ -11,6 +11,8 @@ I am still researching other alternatives, which could be on or off GitHub. But 
 UPDATE: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up:
 
 - Students first set up their repo site at github.io, retracing my steps at [Git Hub Pages guide above](https://pages.github.com/)
+- To publish work saved on the local computer, such as :
+- To embed and publish work hosted on sites such as YuTube or Tableau
 - Students would finish an assignment, such as constructing a chart on Chartbuilder or an interactive vusualization on Tableau, get the embed code and tudents would Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
 
 For example: Here are links to two html test documents I have uploaded to this repo:
