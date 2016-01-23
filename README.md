@@ -2,11 +2,12 @@
 
 ##Repo for Data Viz project pages
 
-I set up this repo as a possible site for students to submit Data Viz assignments.
+I set up this repo as part of a new journalism module, Data Visualization.
+My hope is that each student will setu up a repo as means to submit and publish Data Viz assignments.
 I am still researching other alternatives, which could be on or off GitHub.
-But ultimately I would like students to become more familiar with GitHub by submitting and getting work.
+But ultimately I would like students to become more familiar with GitHub and its process of submitting and publishing work.
 
-<p><a href="https://pages.github.com/">Followed this GitHub Pages guide, using "GitHub for Mac."</a></p>
+<p><a href="https://pages.github.com/"> I followed this GitHub Pages guide, using "GitHub for Mac."</a></p>
 
 UPDATE: It seems like the best option might be: 1) students set up a repository like this site: name.github.io; 2) Upload html pages from the local GitHub for Mac; 3) Copy the file path --"copy path" -- for each page and paste links into a "home page," the README.MD page for name.github.io; 4) Need to add http:// in front of file path name for correct address.
 
