@@ -16,6 +16,10 @@ UPDATE: After a month of trial, I think github.io will work for students. The st
 - **To "hand in" the assignment**, students would: 1) Copy the file path --"copy path" -- for the assignment page and paste that link into a "Portfolio" page created for name.github.io; 2) The students may need to add http:// in front of the assigment file path name on their Portfolio page for the url to work; 3) Students would then notfiy me that the assignment was completed and send me the url for the Portfolio page.
 - The Portfolio page would be a collection of their Data Viz work that can be shared with future employers.
 
+File and Folder management is important. 
+
+- [Here is GitHub help on Moving Files](https://help.github.com/articles/moving-a-file-to-a-new-location/)
+
 The Chronicle of Higher Education offers some good guides, geared for academics.
 
 - [Getting Started with GitHub](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
