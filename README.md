@@ -1,8 +1,10 @@
 # jacklule.github.io
 
-##Repo for Data Viz project pages
+##Repo for Lehigh journalism Data Vizualization
 
-I set up this repo as part of a new journalism module, Data Visualization. My hope is that each student will set up a repo as a means to submit and publish Data Viz assignments.
+<p>I set up this repo as part of a new journalism module, Data Visualization. <a href="https://github.com/jacklule/DataViz-Syllabus">The syllabus can be found here.</a></p>
+
+<p>My hope is that each student will set up a repo as a means to submit and publish Data Viz assignments.</p>
 
 I am still researching other alternatives, which could be on or off GitHub. But ultimately I would like students to become more familiar with GitHub and its process of submitting and publishing work.
 
