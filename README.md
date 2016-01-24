@@ -8,7 +8,9 @@
 
 I am still researching other alternatives, which could be on or off GitHub. But ultimately I would like students to become more familiar with GitHub and its process of submitting and publishing work.
 
-<p><a href="https://pages.github.com/"> I followed this GitHub Pages guide, using "User or organization" site and "GitHub for Mac."</a></p>
+<p>Students of course would first need to set up an account. <a href="https://github.com">It is easy at GitHub.com.</a></p>
+
+<p><a href="https://pages.github.com/"> I then followed this GitHub Pages guide, using "User or organization" site and "GitHub for Mac."</a></p>
 
 **UPDATE**: After a month of trial, I think github.io will work for students. The students will learn to create a new html page to embed and publish each assignment thus doubling the value of each lesson. To get them set up:
 
