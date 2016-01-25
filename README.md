@@ -1,8 +1,10 @@
-# jacklule.github.io
+# jacklule.github.io: README
 
-##Repo for Lehigh journalism Data Vizualization
+<p>I originally set up this repository (repo) simply to be part of a new journalism module, Data Visualization. <a href="https://github.com/jacklule/DataViz-Syllabus">The syllabus can be found here at GitHub.com.</a></p>
 
-<p>I set up this repo as part of a new journalism module, Data Visualization. <a href="https://github.com/jacklule/DataViz-Syllabus">The syllabus can be found here at GitHub.com.</a></p>
+<p>However, I quickly realized that the GitHub "user page" --https://github.com/USER_NAME -- was the appropriate place to set up the syllabus. The user page can accept numerous repos and could handle numerous syllabi and other projects.</p>
+
+<p>USER_NAME.github.io is much more appropriate as a kind of staging ground, landing page or portfolio for work at github.com/USER_NAME.</p>
 
 <p>My hope is that each student will set up a repo as a means to submit and publish Data Viz assignments.</p>
 
