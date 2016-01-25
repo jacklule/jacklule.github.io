@@ -10,6 +10,8 @@
 
 <p>Instructions that take my students through the entire process of registering for GitHub, creating a user page and establishing a repository for a portfolio can be found in the early weeks of my Data Visualization syllabus.</p>
 
+<p>I subsequently found [an excellent tutorial on using GitHub for Web portfolios](http://dannguyen.github.io/github-for-portfolios/)by Dan Nguyen.
+
 
 
 
