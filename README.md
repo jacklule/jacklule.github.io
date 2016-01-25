@@ -4,7 +4,7 @@
 
 <p>However, I quickly realized that the GitHub "user page" --<i>github.com/USER_NAME</i> -- was the appropriate place to set up the syllabus. The user page can hold many repos for various syllabi and other projects.</p>
 
-<p>It appears that <i>USER_NAME.github.io</i> is much more appropriate as a kind of staging ground, landing page or portfolio for work at *github.com/USER_NAME*.</p>
+<p>It appears that <i>USER_NAME.github.io</i> is much more appropriate as a kind of staging ground, landing page or portfolio for work at <i>github.com/USER_NAME</i>.</p>
 
 <p>My hope then is that my students and I thus will have a portfolio of our data visualization work on GitHub.</p>
 
