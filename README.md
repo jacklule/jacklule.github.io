@@ -8,7 +8,7 @@
 
 <p>My hope then is that my students and I thus will have portfolios of our work on GitHub.</p>
 
-<p>Instructions that take my students through the entire process of registering for GitHub, creating a user page and establishing a repository for a portfolio can be found at the [GitHub SetUp page](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md) of my Data Visualization syllabus.</p>
+<p>Instructions that take my students through the entire process of registering for GitHub, creating a user page and establishing a repository for a portfolio can be found at the <a href="https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md">GitHub SetUp page</a> of my Data Visualization syllabus.</p>
 
 <p>I subsequently found [an excellent tutorial on using GitHub for Web portfolios](http://dannguyen.github.io/github-for-portfolios/)by Dan Nguyen.
 
