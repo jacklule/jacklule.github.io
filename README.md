@@ -2,7 +2,9 @@
 
 <p>I originally set up this repository (repo) to be part of a new journalism module, Data Visualization. The <a href="https://github.com/jacklule/DataViz-Syllabus">syllabus</a> can be found here at GitHub.com.</p>
 
-<p>However, I soon learned that GitHub has two different ways of hosting work. And my original GitHub "user page" --<b>github.com/USER_NAME</b> -- was the appropriate place to set up the syllabus. The user page can hold many repos for various syllabi and other projects.</p>
+<p>I learned early on that GitHub offered different ways of hosting work, including a "user" page, such as <b>name.github.io</b>, and a "project" page, such as <b>name.github.io/project</b>.</p> 
+
+<p>For example, Derek Willis hosts his syllabi as html project pages, which are sub-directories of dwillis.github.io, such as his [data reporting syllabus](http://dwillis.github.io/data-reporting/). And my original GitHub "user page" --<b>github.com/USER_NAME</b> -- was the appropriate place to set up the syllabus. The user page can hold many repos for various syllabi and other projects.</p>
 
 <p>A GitHub Page -- <b>USER_NAME.github.io</b> -- actually is just another repo on the user page. BUT it allows for the .io Internet domain name (like.com). A GitHub Page thus is much more appropriate as a kind of web site, staging ground, landing page or portfolio for work done at <b>github.com/USER_NAME</b>.</p>
 
