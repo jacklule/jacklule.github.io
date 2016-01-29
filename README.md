@@ -4,7 +4,7 @@
 
 <p>I learned early on that GitHub offered different ways of hosting work, including a "user" page, such as <b>name.github.io</b>, and a "project" page, such as <b>name.github.io/project</b>.</p> 
 
-<p>For example, <a href="http://dwillis.github.io">Derek Willis</a> hosts his syllabi as html project pages, which are sub-directories of dwillis.github.io, such as his <a href="http://dwillis.github.io/data-reporting/">data reporting syllabus</a>). [Matt Waite](http://mattwaite.github.io) uses mattwaite.github.io as a kind of portfolio of his GitHub work, including class syllabi, to be found at [github.com.mattwaite](http://githumb.com/mattwaite).</p>
+<p>For example, <a href="http://dwillis.github.io">Derek Willis</a> hosts his syllabi as html project pages, which are sub-directories of dwillis.github.io, such as his <a href="http://dwillis.github.io/data-reporting/">data reporting syllabus</a>. <a href="http://mattwaite.github.io">Matt Waite</a> uses mattwaite.github.io as a kind of portfolio of his GitHub work, including class syllabi, to be found at <a href="http://githumb.com/mattwaite">github.com.mattwaite</a>.</p>
 
 <p>I see the advantages of both. I decided though to follow the lead of Matt Waite and setup my user page, [jacklule.gitub.io](http://jacklule.github.io) to serve as a portfolio of my workAnd my original GitHub "user page" --<b>github.com/USER_NAME</b> -- was the appropriate place to set up the syllabus. The user page can hold many repos for various syllabi and other projects.</p>
 
