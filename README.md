@@ -8,7 +8,7 @@
 
 <p>But <a href="http://mattwaite.github.io">Matt Waite</a> uses mattwaite.github.io as a kind of portfolio of his GitHub work, including class syllabi, to be found at <a href="http://github.com/mattwaite">github.com.mattwaite</a>.</p>
 
-<p>I see the advantages of both. I decided though to follow the lead of Matt Waite and set up my user page, <a href="http://jacklule.github.io">jacklule.gitub.io</a> to serve as a collection of my GitHub work, including syllabi, at <a href="http://github.com/jacklule">github.com/jacklule</a>. portfolio of my work.</p>
+<p>I see the advantages of both. I decided though to follow the lead of Matt Waite and set up my user page, <a href="http://jacklule.github.io">jacklule.gitub.io</a> to serve as a collection of my GitHub work, including syllabi, at <a href="http://github.com/jacklule">github.com/jacklule</a> and a portfolio of my work.</p>
 
 <p>I think it will be good for my students to work regularly in GitHub, rather than at an html page. My hope too is that my students and I thus will have portfolios that display our work on GitHub.</p>
 
