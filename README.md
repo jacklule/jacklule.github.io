@@ -4,7 +4,7 @@
 
 <p>I learned early on that GitHub offered different ways of hosting work, including a "user" page, such as <b>name.github.io</b>, and a "project" page, such as <b>name.github.io/project</b>, as well as a contributor's page, such as <b>github.com/name</b>.</p> 
 
-<p>For example, <a href="http://dwillis.github.io">Derek Willis</a> hosts his syllabi as html project pages, which are sub-directories of dwillis.github.io, such as his <a href="http://dwillis.github.io/data-reporting/">data reporting syllabus</a>.</p>
+<p>For example, <a href="http://dwillis.github.io">Derek Willis</a> hosts his syllabi as html project pages, which are sub-directories of dwillis.github.io, such as his data reporting syllabus, which is found at <a href="http://dwillis.github.io/data-reporting/">dwillis.github.io/data-reporting</a>.</p>
 
 <p>But <a href="http://mattwaite.github.io">Matt Waite</a> uses mattwaite.github.io as a kind of portfolio of his GitHub work, including class syllabi, to be found at <a href="http://github.com/mattwaite">github.com.mattwaite</a>.</p>
 
